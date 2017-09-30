@@ -1,5 +1,5 @@
 # **Instructions**
-
+hello
 * Remember Tamagotchis? They were those little toys that contained "digital pets" which you could feed, pet, play with, and care for. Kind of like Furbies but a whole lot less terrifying. Over the next thirty minutes or so, you are going to create your own basic Tamagotchi clone using constructors.
 
 * Create a constructor called "DigitalPal" which will create four properties and four methods...
